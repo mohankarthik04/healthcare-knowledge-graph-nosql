@@ -1,6 +1,6 @@
 # Healthcare Knowledge Graph using NoSQL
 
-A small educational project using **Neo4j**, **Cypher**, **Python** and **Streamlit** to represent healthcare entities and their relationships as a knowledge graph.
+A small project using **Neo4j**, **Cypher**, **Python** and **Streamlit** to represent healthcare entities and their relationships as a knowledge graph.
 
 ## Features
 - Patient, Doctor, Disease and Medicine nodes.
